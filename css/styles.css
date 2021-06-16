@@ -64,12 +64,13 @@
     .bottom-cloud {
         position: absolute;
         left: 20%;
-        bottom: 700px;
+        bottom: 800px;
     }
 
     #top-mountian {
         position: relative;
         bottom: -7px;
+        margin-top: 5em;
     }
 
     #top-hr {
